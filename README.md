@@ -8,4 +8,4 @@
 - два 
 - три 
 
-(http://github.com)[гитхаб]
+[гитхаб](http://github.com)
